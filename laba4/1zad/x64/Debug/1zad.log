@@ -1,0 +1,24 @@
+﻿Сборка начата 12.12.2023 19:01:39.
+Уровень детализации журнала: Normal.     1>Проект "D:\later github\index.html\ВРПО\laba4\1zad\1zad.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "x64\Debug\1zad.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt 1zad.cpp
+         1zad.cpp
+     1>D:\later github\index.html\ВРПО\laba4\1zad\1zad.cpp(24,13): error C3861: getLatin: идентификатор не найден
+     1>D:\later github\index.html\ВРПО\laba4\1zad\1zad.cpp(28,13): error C3861: getKirilich: идентификатор не найден
+     1>D:\later github\index.html\ВРПО\laba4\1zad\1zad.cpp(32,13): error C3861: getNumber: идентификатор не найден
+     1>Сборка проекта "D:\later github\index.html\ВРПО\laba4\1zad\1zad.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "D:\later github\index.html\ВРПО\laba4\1zad\1zad.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\later github\index.html\ВРПО\laba4\1zad\1zad.cpp(24,13): error C3861: getLatin: идентификатор не найден
+         D:\later github\index.html\ВРПО\laba4\1zad\1zad.cpp(28,13): error C3861: getKirilich: идентификатор не найден
+         D:\later github\index.html\ВРПО\laba4\1zad\1zad.cpp(32,13): error C3861: getNumber: идентификатор не найден
+
+    Предупреждений: 0
+    Ошибок: 3
+
+Прошло времени 00:00:00.70
